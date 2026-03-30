@@ -74,7 +74,7 @@ edgeone pages dev
 ## 📚 文档入口
 
 - **Sanic 文档**：[https://sanic.dev](https://sanic.dev)
-- **EdgeOne Pages 文档**：[https://pages.edgeone.ai/document/cloud-functions/python](https://pages.edgeone.ai/document/cloud-functions/python)
+- **EdgeOne Pages 文档**：[https://pages.edgeone.ai/document/python](https://pages.edgeone.ai/document/python)
 
 ## 部署
 
