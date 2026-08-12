@@ -2,8 +2,9 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Sanic + EdgeOne Pages",
-  description: "Deploy high-performance async Sanic applications as serverless functions on EdgeOne Pages. Build fast with Python async/await.",
+  title: "Sanic + EdgeOne Pages | EdgeOne Makers",
+  description: "Deploy high-performance async Sanic applications as serverless functions on EdgeOne Pages. Build fast with Python async/await. · Demo only · EdgeOne Makers",
+  keywords: "EdgeOne Makers, Demo only",
 };
 
 export default function RootLayout({
